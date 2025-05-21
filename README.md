@@ -1,3 +1,4 @@
+![logo](https://github.com/777santosh/777santosh/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Santosh Mahapatra</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
