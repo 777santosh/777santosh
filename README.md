@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://l.instagram.com/?u=https%3A%2F%2F777santosh.github.io%2Fmyport%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAacGKwUvbxQBEaYjn3smUhxnhRzQI74wmHdMVljqPPnYD--V8qQELTtiZlVuGA_aem_Nh5GZkJG7oi1euiVFm_8LQ&e=AT0vPeItMvpawhUYMjrYVyLjf3dH_bYiqH8283BAO-BZUzS2fmn_om1n9814KQuj7UmXtJzb0vqv_K42A7nYTCCU8S-f_NRtDULZm7BLLTGDdFJ7jiKlNTo](https://777santosh.github.io/myport/)
+- 👨‍💻 All of my projects are available at (https://777santosh.github.io/myport/)
 
 - 📫 How to reach me **mohapatrasantosh179@gmail.com**
 
